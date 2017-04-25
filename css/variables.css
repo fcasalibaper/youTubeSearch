@@ -1,0 +1,12 @@
+/* VARIABLES */
+$padd             : 2em;
+$size-profile-pic : 11rem;
+$fz               : 2.2em;
+
+/*COLORS*/
+$black      : 0,0,0;
+$white      : 255,255,255;
+$grey       : rgba($black, 0.28);
+$color-bg   : $black; 
+$pink       : rgb(247, 202, 201);
+$lightblue  : rgb(146,168,209);

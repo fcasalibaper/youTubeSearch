@@ -1,0 +1,4 @@
+/*MIXINS*/
+@define-mixin bgLinear $color1 : $white, $color2 : $black, $porcentaje1 : 0%, $porcentaje2: 100%, $rotate : 180deg {
+  background-image: linear-gradient(to $rotate, $color1 $porcentaje1, $color2 $porcentaje2)
+}
